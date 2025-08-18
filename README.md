@@ -2,7 +2,7 @@
 
 - 📚 Hoje eu estudo Ciências de Dados e IA
 - 🌱 Amo de desenvolver, principalmente front-end
-- 🎲 Gosto de análise de dados e modelagens preditivas
+- 🎲 Gosto de estatistica e modelagens preditivas
 - 🌻 Iniciação científica na área de Interações Humano-Computador
 - 🎀 Pronomes: Ela/Dela
 
