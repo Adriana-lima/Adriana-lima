@@ -1,7 +1,7 @@
 ## Oii! eu sou a Adriana Lima
 
-- 📚 Hoje eu estudo Ciências de Dados e IA
-- 🌱 Amo de desenvolver, principalmente front-end
+- 📚 Hoje eu estudo Ciências de Dados 
+- 🌱 Amo de desenvolver, principalmente front-end e analise de dados
 - 🎲 Gosto de estatistica e modelagens preditivas
 - 🌻 Iniciação científica na área de Interações Humano-Computador
 - 🎀 Pronomes: Ela/Dela
